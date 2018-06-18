@@ -1,12 +1,8 @@
 # Extend the String object (JS) or create a function (Python, C#) that converts the value of the String to and from Base64 using the ASCII (UTF-8 for C#) character set.
-
 # Do not use built in functions.
-
 # Usage:
-
 # should return 'dGhpcyBpcyBhIHN0cmluZyEh'
 # to_base_64('this is a string!!')
-
 # should return 'this is a string!!'
 # from_base_64('dGhpcyBpcyBhIHN0cmluZyEh')
 
